@@ -114,11 +114,6 @@ Email Me 👉 ✉️ **mithilavibeshub** For Collaboration/Project or Anything E
 ![](https://github-contributor-stats.vercel.app/api?username=ydvrupesh46&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ---
-<p align="center">
-  <a href="https://aayushkraut.com.np/">
-    <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-FF5722?style=for-the-badge&logoColor=white"/>
-  </a>
-</p>
 
 
 ---
