@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Rupesh Adhikari
 **A passionate Graphic Designer From Nepal**
 
-Email Me 👉 ✉️ **mithilavibeshub** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **mithilavibeshub@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** MithilaVibesHub
 - 🌱 **I’m currently learning:** Adobe XD/Figma 
@@ -16,28 +16,32 @@ Email Me 👉 ✉️ **mithilavibeshub** For Collaboration/Project or Anything E
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">🛠️ Design Toolkit</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CorelDRAW-009F6B?style=for-the-badge&logo=coreldraw&logoColor=white"/>
+<img src="https://img.shields.io/badge/-UI%2FUX%20Design-000000?style=for-the-badge&logo=behance&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Branding%20%26%20Identity-5A31F4?style=for-the-badge&logo=dribbble&logoColor=white"/>
 </p>
 
-# 💻 Tech Stack:
-![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff)
-# 📊 GitHub Stats:
+# 💻 Design Stack:
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-009F6B?style=for-the-badge&logo=coreldraw&logoColor=white)
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-000000?style=for-the-badge&logo=behance&logoColor=white)
+![Branding](https://img.shields.io/badge/Branding%20%26%20Identity-5A31F4?style=for-the-badge&logo=dribbble&logoColor=white)
 ![](https://github-readme-stats.vercel.app/api?username=ydvrupesh46&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ydvrupesh46&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ydvrupesh46&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ydvrupesh46&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -58,65 +62,60 @@ Email Me 👉 ✉️ **mithilavibeshub** For Collaboration/Project or Anything E
 </p>
 ### 🎮 React Arcade Games
 
-**Classic games rebuilt for the web**
+**Creative designs crafted for digital platforms**
 
-- 🐍 Snake Game
-- ⭕ Tic Tac Toe
-- 🧱 Brick Breaker
-- 🎯 Score tracking & leaderboards
+- 🎨 Brand identity & logo design
+- 📱 Social media creatives & posters
+- 🖥️ UI/UX layouts & wireframes
+- 🖌️ Illustrations & visual storytelling
 
-**Tech Stack:** React, JavaScript, CSS3
+**🎨 Design Stack:** Adobe Photoshop, Adobe Illustrator, Figma, Canva
 
-<!-- [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](your-link) -->
+<!-- [![Live Preview](https://img.shields.io/badge/Live-Preview-blue?style=flat-square)](your-portfolio-link) -->
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square)](your-repo)
-[![Coming Soon](https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square)](your-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-black?style=flat-square)](your-portfolio-link)
+[![Status](https://img.shields.io/badge/Status-Design%20Showcase-green?style=flat-square)](your-link)
+### 🤖 Design Projects
 
-</td>
-</tr>
+**Design-focused creative work**
 
-<tr>
-<td width="50%">
-### 🤖 Python Automation Suite
-
-**Smart automation tools for daily tasks**
-
-- 📁 Intelligent file organizer
-- 🔄 Batch file renamer
-- ⏱️ Time tracking utilities
-- 📊 System monitoring
-
-**Tech Stack:** Python, Tkinter, OS modules  
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square)](your-repo)
-[![Coming Soon](https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square)](your-link)
+- 🎨 Branding & logos
+- 📱 Digital & social media designs
+- 🖥️ Web & app visuals
+- ✨ Creative concept development
+**🎨 Design Stack:** Adobe Photoshop, Adobe Illustrator, Figma, Canva  
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-black?style=flat-square)](your-portfolio-link)
+[![Status](https://img.shields.io/badge/Status-Design%20Showcase-green?style=flat-square)](your-link)
 
 </td>
 <td width="50%">
 
-### 🚀 Coming Soon: JobTrackr
+### ✨ Featured Design Project: BrandVista
 
-**Full-stack job application tracker**
+**Creative branding & visual identity project**
 
-- 📊 Application status dashboard
-- 📅 Interview scheduling
-- 💼 Company research notes
-- 📈 Success rate analytics
+- 🎨 Logo & brand identity design
+- 📱 Social media creatives & posters
+- 🖥️ Web & digital visual assets
+- 📐 Consistent color & typography system
 
-**Tech Stack:** MERN Stack, Chart.js  
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square)](your-repo)
-[![Coming Soon](https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square)](your-link)
+**🎨 Design Tools:** Photoshop, Illustrator, Figma  
+[![Behance](https://img.shields.io/badge/Behance-View%20Project-1769FF?style=flat-square)](your-link)
+[![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](your-link)
 
 </td>
 </tr>
 </table>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ydvrupesh46&limit=5&theme=flat&combine_all_yearly_contributions=true)
+### 🖌️ Features of Design Work
+
+- 🌟 High-resolution, print-ready graphics
+- 🎯 User-focused UI/UX elements
+- 🔄 Iterative design & feedback process
+- 🖼️ Illustration & visual storytelling
+- 📊 Infographics & data visualization
+- 📱 Social media & marketing creatives
+- 🏷️ Branding & visual identity consistency)
 
 ---
 
-
----
-[![](https://visitcount.itsvg.in/api?id=ydvrupesh46&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
